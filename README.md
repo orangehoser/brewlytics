@@ -1,2 +1,1 @@
-This is my try at forecasting daily coffee prices by lstm deep net.
-Hope you understand it well.
+Forecasting the increase in coffee prices using tensorflow and analyzing the coffee market trends.
